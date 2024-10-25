@@ -10,8 +10,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        inter: ["Inter", "sans-serif"],
-      },
+        'sans': ['Inter', 'sans-serif']
+      }
     },
   },
   plugins: [tailwindScrollbar],
